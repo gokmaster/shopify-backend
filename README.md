@@ -20,6 +20,10 @@ composer update
 Copy **.env.example** and rename to **.env**.
 Modify where appropriate e.g. **APP_URL**, **MAIL_HOST**, **DB_HOST** etc.
 
+Then generate your application key:
+~~~
+php artisan key:generate
+~~~
 
 Then run following after creating your database:
 ~~~
