@@ -1,0 +1,6 @@
+title,description,category,price,compare_at_price,sku,barcode,quantity,vendor,status,image_url,source_url
+Classic Cotton T-Shirt,Soft 100% cotton crew neck t-shirt,Apparel,19.99,24.99,TSHIRT-001,012345678901,150,Acme Apparel,active,https://picsum.photos/seed/tshirt1/600,https://example.com/products/classic-cotton-tshirt
+Stainless Steel Water Bottle,Insulated 750ml bottle keeps drinks cold for 24 hours,Drinkware,29.95,,BOTTLE-750,012345678902,80,HydroLife,active,https://picsum.photos/seed/bottle1/600,https://example.com/products/steel-water-bottle
+Wireless Bluetooth Earbuds,True wireless earbuds with charging case,Electronics,49.99,59.99,EARBUD-TW1,012345678903,0,SoundWave,draft,https://picsum.photos/seed/earbuds1/600,
+Leather Wallet,Genuine leather bifold wallet with RFID protection,Accessories,34.50,,WALLET-BF1,,25,Craftsman Goods,active,,https://example.com/products/leather-wallet
+Ceramic Coffee Mug,12oz microwave and dishwasher safe mug,Kitchen,12.00,15.00,,012345678905,200,Home & Co,archived,https://picsum.photos/seed/mug1/600,
