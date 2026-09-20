@@ -6,6 +6,15 @@
             <code class="rounded bg-neutral-100 px-1 py-0.5">write_products</code> access, then paste the Admin API access token below.
         </p>
 
+        <a href="{{ asset('docs/shopify-api-token-guide.pdf') }}" download class="mt-3 inline-flex items-center gap-2 rounded-lg border border-neutral-300 px-4 py-2 text-sm font-medium text-neutral-700 hover:bg-neutral-50">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M12 3v12" />
+                <path d="m7 10 5 5 5-5" />
+                <path d="M5 21h14" />
+            </svg>
+            Download API token guide (PDF)
+        </a>
+
         <form wire:submit="save" class="mt-5 space-y-4">
             <div>
                 <label class="mb-1 block text-sm font-medium text-neutral-700">Store domain</label>
